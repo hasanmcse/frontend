@@ -1,0 +1,22 @@
+[
+    {
+    name:"Rifat Hasan",
+    title: "Web Design",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+   
+  
+    },
+    {
+      name:"Raidh Hasan",
+    title: "Web Development",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    
+    },
+    {
+    name:"Ratul Hasan",
+    title: "Digital Marketing",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    
+    }
+   
+  ]

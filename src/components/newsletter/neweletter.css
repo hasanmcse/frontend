@@ -1,0 +1,10 @@
+.subscribe>input {
+    padding: 7px;
+    font-size: 17px;
+    margin: 0 5px;
+    border-radius: 10px;
+}
+.news_top {
+    border-bottom: 1px solid red;
+    display: inline-block;
+}

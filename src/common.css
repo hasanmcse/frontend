@@ -1,0 +1,82 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+<link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+
+
+/* hero section  */
+.hero_area{
+    margin-top:50px;
+}
+.img_left img {
+    width: 300px;
+    height: 300px;
+}
+.img_right img {
+    height: 300px;
+    width: 300px;
+}
+.hero_area {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+/*   work section */
+.work_title {
+    color: greenyellow;
+}
+.card-body {
+    margin: 10px 30px;
+}
+
+
+/*  feature product */
+
+.featured_area{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+
+.col-md-6.feature_left img {
+    width: 100%;
+    height: 100%;
+}
+.single_item {
+    margin-right: 7px;
+}
+.single_item img {
+    border-radius: 15px;
+}
+
+
+
+/*  ====   team page css    */
+
+
+
+
+/* footer and header logo*/
+.logo span {
+    color: orangered;
+}
+
+/*  newsletter  */
+.subscribe>input {
+    padding: 7px;
+    font-size: 17px;
+    margin: 0 5px;
+    border-radius: 10px;
+}
+.news_top {
+    border-bottom: 1px solid red;
+    display: inline-block;
+}
+
+/* testimonial */
+.single_testimonial p {
+    padding: 0 15px 0 0;
+}
+
+.news_area{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

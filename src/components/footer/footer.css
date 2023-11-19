@@ -1,0 +1,30 @@
+footer.footer_area {
+    background-color: cadetblue;
+    margin-top: 50px;
+
+}
+.footer_content {
+  display: flex;
+  padding: 10px 20px;
+  justify-content: center;
+}
+.single_footer p {
+  color: #000;
+  font-size: 18px;
+}
+.footer_logo h2 span{
+  color: orangered;
+}
+
+.link_list .link_item {
+    background: transparent;
+  }
+  
+.link_list a {
+    text-decoration: none;
+    color: #0a2b1e;
+    font-weight: 500;
+  }
+  .footer_content .link_list{
+    list-style: none;
+  }
