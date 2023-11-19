@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {useNavigate} from "react-router-dom";
 import {toast, Toaster} from "react-hot-toast";
 import {OTPVerifyRequest, UserLoginRequest} from "../apiRequest/apiRequest.js";
-import FullScreenLoader from "./FullScreenLoader.jsx";
+//import FullScreenLoader from "./FullScreenLoader.jsx";
 import {GetEmail} from "../utility/TokenHelper.js";
 
 const OtpForm = () => {

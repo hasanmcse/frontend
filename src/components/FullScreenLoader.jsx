@@ -1,5 +1,5 @@
 import React from 'react';
-import loader from "../Assets/img/loader.svg"
+import loader from "../assets/img/loader.svg"
 const FullScreenLoader = (props) => {
     return (
         <div className={props.visibility}>
